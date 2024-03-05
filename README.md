@@ -21,10 +21,4 @@ Remember, it's important to strike a balance between having fun and being produc
 
 > So, grab a drink, summon the Python interpreter, and embark on a laughter-filled adventure. With Python, you'll code like a pro, even if you occasionally curse at invisible syntax errors.
 
-## free code
-
-here, 
-- //www.python.org/downloads/
-- Install the python and put this code 
-
 ```
