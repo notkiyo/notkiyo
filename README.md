@@ -14,7 +14,7 @@ If you're a company that values laughter, collaboration, and building epic appli
 * Experience with AI models, including LLMs, TTS, and auto speech recognition – not a master tho /_ \
 * Comfortable creating and manipulating datasets using JSON for AI models, image diffusion, and more (always learning and striving to new things ).
 * Adept at integrating APIs and optimizing code through the use of AI models.
-* Finally mastered the art of the well-timed "raise" (i am a true Asian now ) still can't beat mon tho
+* Finally mastered the art of the well-timed "raise" (i am a true Asian now ) still can't beat mom tho
 
 **Projects:**
 
