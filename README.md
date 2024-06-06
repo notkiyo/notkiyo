@@ -1,7 +1,7 @@
 
 **Dattebayo! I'm Kiyo!** (That's Believe It! in Naruto for all you non-weeb developers out there)
 
-I'm a Python developer with a Sharingan for finding clever shortcuts (*wink wink*). When I'm not battling bugs with my Python jutsu, you might find me mastering the art of relaxation (because balance is the way of the Shinobi).
+I'm a Python developer with a Sharingan for finding clever shortcuts (*wink wink*). When I'm not battling bugs with my dum brain, you might find me mastering the art of relaxation (sleeping, gaming, anime and etc ).
 
 **Looking for a coding buddy's with a fun crew!** 
 
