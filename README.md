@@ -1,24 +1,42 @@
-# hi,
 
-Hey there, I'm Kiyo
--  the self-proclaimed lazy coder who loves to chill with Python! I may not be the fastest coder, but I make up for it with my 'efficiency' in finding shortcuts. When I'm not coding, you can find me perfecting the art of laziness in other areas of life. So, let's embark on this coding adventure together, where we can laugh, learn, and create some seriously cool stuff with Python!"
+**Dattebayo! I'm Kiyo!** (That's Believe It! in Naruto for all you non-weeb developers out there)
 
-Remember, it's important to strike a balance between having fun and being productive. Enjoy the process and embrace your unique coding style!
+I'm a Python developer with a Sharingan for finding clever shortcuts (*wink wink*). When I'm not battling bugs with my Python jutsu, you might find me mastering the art of relaxation (because balance is the way of the Shinobi).
 
-## Features
--  i  know python 
-- i know how to cook (I mean tea and noodles.)
-- i now how to copy and past (ctrl+c)(ctrl+v)
--  also please help me with my code(i am bad at it)
+**Looking for a coding buddy's with a fun crew!** 
 
-> Python, the mischievous snake of programming languages! With its sleek syntax and dynamic nature, Python is like a magician, making complex tasks disappear.
+If you're a company that values laughter, collaboration, and building epic applications with Python and other languages, then believe it, we can create something amazing together! 
 
-> But Python doesn't stop there! It's your loyal friend, automating boring tasks and helping you build web applications.
+**Features:**
 
-> And let's not forget the Python community, a bunch of eccentric developers who love Monty Python references and sprinkle magic into every project.
+* Proficient in Python with core skills that surpass even Kakashi's copywriting jutsu (except for maybe raising exceptions...still working on that Sharingan!). 
+* Skilled (or i think :-) in web development using HTML, CSS, and scraping techniques. 
+* Experience with AI models, including LLMs, TTS, and auto speech recognition – not a master tho /_ \
+* Comfortable creating and manipulating datasets using JSON for AI models, image diffusion, and more (always learning and striving to new things ).
+* Adept at integrating APIs and optimizing code through the use of AI models.
+* Finally mastered the art of the well-timed "raise" (i am a true Asian now ) still can't beat mon tho
 
-> But beware! Python enjoys throwing indentation errors and making you hunt for missing colons. It keeps you humble and your code clean!
+**Projects:**
 
-> So, grab a drink, summon the Python interpreter, and embark on a laughter-filled adventure. With Python, you'll code like a pro, even if you occasionally curse at invisible syntax errors.
+* **Weather App (HTML, CSS, Python):** Developed a modern weather app with search functionality and a user-friendly interface that's smoothe 
+* **Offline Multi-Language Speech Recognition (Python, Vosk Library):** Built an offline speech recognition application capable of recognizing multiple languages, including Malayalam (custom language model )
+* **Price Comparison Script (Python, SerpAPI):** Created a Python script that scrapes Google Shopping results for specified products in India, identifying the four lowest-priced options and helping users save money (basically rating the data out of google shopping to better sute my need ).
+* **Small-Scale LLM (Python):** Explored building a small-scale language model using Python to gain practical experience in machine learning (baby steps towards my aiwifu).
+* **Automatic Subtitle Creator (OpenAI Whisper API):** Leveraged OpenAI's Whisper API to create an automatic subtitle generator for video content, improving accessibility (because sharing information is key, just like in a good anime!).
+* **Image Diffusion (Hugging Face):** Experimented with image diffusion techniques using Hugging Face libraries to understand the potential of generative AI models (who knows, maybe I'll create the next great anime masterpiece!).
 
-```
+**Interests:**
+
+*  AI creations: I'm fascinated by the potential of AI to create new and innovative things, just like the crazy inventions in Dr. Stone!
+* Making my own ideas into reality: I'm passionate about bringing my ideas to life through code and building useful applications (like a true inventor, gotta make my dreams a reality!).
+
+**Portfolio:**
+
+I'm currently building a portfolio website to showcase my projects in more detail. In the meantime, (●'◡'●)
+
+* Instagram: [https://www.instagram.com/reel/C0cEjAtrIJ-/](https://www.instagram.com/reel/C0cEjAtrIJ-/)
+* Discord: kiyo#9004 (feel free to connect!)
+
+**Looking forward to connecting, dattebayo!**
+                                                                                                                                          -help from google gemini 
+                                                                                                                                          thank you 
