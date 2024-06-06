@@ -34,9 +34,9 @@ If you're a company that values laughter, collaboration, and building epic appli
 
 I'm currently building a portfolio website to showcase my projects in more detail. In the meantime, (●'◡'●)
 
-* Instagram: (Instagram)[https://www.instagram.com/kiyo_venatrix/)
+* Instagram: [https://www.instagram.com/kiyo_venatrix/)
 * Discord: kiyo#9004 (feel free to connect!)
-* anilist: (anilist)[https://anilist.co/user/notgogalyexe/animelist]
+* anilist: [https://anilist.co/user/notgogalyexe/animelist]
 
 **Looking forward to connecting, dattebayo!**
                                                                                                                                           -help from google gemini 
