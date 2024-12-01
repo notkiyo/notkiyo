@@ -25,4 +25,4 @@
 ---
 
 ## 💖 Support
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white)](buymeacoffee.com/kiyodum)
+[![Buy Me A Coffee](buymeacoffee.com/kiyodum)]
