@@ -25,4 +25,4 @@
 ---
 
 ## 💖 Support
-(buymeacoffee.com/kiyodum)
+buymeacoffee.com/kiyodum
