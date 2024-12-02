@@ -25,10 +25,10 @@
 ---
 
 ## 💖 Support
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kiyodum)
 
 ---
 
 ## 📫 Contact Me
 Feel free to reach out through my social links or email me at:  
 [**kiyo@example.com**](mailto:kiyo@example.com)
-
