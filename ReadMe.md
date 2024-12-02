@@ -25,8 +25,6 @@
 ---
 
 ## 💖 Support
-If you like what I do and want to support me, feel free to buy me a coffee! ☕  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/kiyodum)
 
 ---
 
