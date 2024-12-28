@@ -31,4 +31,4 @@
 
 ## 📫 Contact Me
 Feel free to reach out through my social links or email me at:  
-[**kiyo@example.com**](mailto:kiyo@example.com)
+[**kiyo-dum@proton.me**](mailto:kiyo-dum@proton.me)
