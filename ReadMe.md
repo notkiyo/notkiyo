@@ -50,5 +50,10 @@
 
 ### btw:
 - open source? **hell yeah** — love that stuff
+- contact:
+  - email: kiyo-dum@proton.me     
+  - insta: kiyo_dumb
+---
 
-![](https://tenor.com/view/hatsune-miku-pusheen-crying-sad-gif-26867634)
+![](https://github.com/notkiyo/notkiyo/blob/main/anime-fran.gif)
+
