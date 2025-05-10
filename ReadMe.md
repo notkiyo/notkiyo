@@ -1,5 +1,5 @@
 # kiyo
-![y](https://tenor.com/view/hello-hello-wave-waving-wave-anime-wave-gif-5241959545903110447)
+![](https://tenor.com/view/hello-hello-wave-waving-wave-anime-wave-gif-5241959545903110447)
 
 ---
 
@@ -51,4 +51,4 @@
 ### btw:
 - open source? **hell yeah** — love that stuff
 
-![t](https://tenor.com/view/hatsune-miku-pusheen-crying-sad-gif-26867634)
+![](https://tenor.com/view/hatsune-miku-pusheen-crying-sad-gif-26867634)
