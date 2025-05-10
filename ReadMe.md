@@ -1,5 +1,5 @@
 # kiyo
-![](https://tenor.com/view/hello-hello-wave-waving-wave-anime-wave-gif-5241959545903110447)
+![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 
 ---
 
