@@ -34,4 +34,4 @@
 - stole the bio style from this guy @hiyouga.
 - repolished it by llm
 - and wa ba da idk
-  [h](https://media.tenor.com/FoPQzVhKSNsAAAAi/hatsune-miku.gif)
+  [](https://media.tenor.com/FoPQzVhKSNsAAAAi/hatsune-miku.gif)
