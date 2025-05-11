@@ -1,4 +1,4 @@
-# kiyo
+![](https://github.com/notkiyo/notkiyo/blob/main/imfo-bio.jpg)
 ![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 
 ---
