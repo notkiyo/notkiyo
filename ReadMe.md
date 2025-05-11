@@ -16,7 +16,6 @@
 - Artificial Intelligence / Machine Learning
 - Tech in general
 - A *lot* of anime, manga, and games. Like, **a lot** lol
-![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 ---
 
 ## Skills:
@@ -44,6 +43,8 @@
 - stole the bio layout from @hiyouga
 - repolished it with help from an LLM
 - and wa ba da idk
+
+![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 
 ---
 
