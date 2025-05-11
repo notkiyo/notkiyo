@@ -1,5 +1,4 @@
 ![](https://github.com/notkiyo/notkiyo/blob/main/imfo-bio.jpg)
-![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 
 ---
 
@@ -17,7 +16,7 @@
 - Artificial Intelligence / Machine Learning
 - Tech in general
 - A *lot* of anime, manga, and games. Like, **a lot** lol
-
+![](https://github.com/notkiyo/notkiyo/blob/main/hatsune-miku.gif)
 ---
 
 ## Skills:
