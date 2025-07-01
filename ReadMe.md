@@ -1,4 +1,4 @@
-![](https://github.com/notkiyo/notkiyo/blob/main/imfo-bio.jpg)
+
 
 ---
 
